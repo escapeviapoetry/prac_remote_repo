@@ -1,3 +1,5 @@
 This is a new practice file.  Making a subtle change.  Making another change.
 
 Adding a new line to the file.  Another change in file1.txt.
+
+Simply modifying this file.
