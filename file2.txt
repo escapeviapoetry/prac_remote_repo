@@ -1,1 +1,9 @@
 This is another new file.
+
+I am editing the file so that we can create on conflict on this line.
+
+Here is another line for fun.
+
+Here is yet another line for fun.
+
+Here is yet another line for practice.
