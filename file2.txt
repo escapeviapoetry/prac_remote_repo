@@ -1,6 +1,6 @@
 This is another new file.
 
-I was editing the file so that we can create on conflict on this line.
+I was editing the file so that we can create conflict.  [Here is my edit of that line in text_edits]
 
 Here is another line for fun.
 
