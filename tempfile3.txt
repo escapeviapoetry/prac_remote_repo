@@ -1,0 +1,3 @@
+Temporary file for demonstration purposes.
+
+Messing with the temporary file in order to understand the different types of merges.
